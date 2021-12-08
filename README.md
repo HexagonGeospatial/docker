@@ -14,4 +14,4 @@ Only Linux docker images and containers are currently supported. The containers 
 **APOLLO Essentials User Guide**
 
 Please refer to the official documentation for ERDAS APOLLO Essentials on _Installation and Licensing_:
-https://hexagongeospatial.fluidtopics.net/r/~z7n22ytzTX6MoP6Ewxs9A/WCTLdugNeAmfjwO_Wp~A0g>
+https://hexagongeospatial.fluidtopics.net/r/~z7n22ytzTX6MoP6Ewxs9A/WCTLdugNeAmfjwO_Wp~A0g
